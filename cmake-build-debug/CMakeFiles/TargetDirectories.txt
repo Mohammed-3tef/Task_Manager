@@ -1,0 +1,3 @@
+D:/TaskList_Command/cmake-build-debug/CMakeFiles/TaskList_Command.dir
+D:/TaskList_Command/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TaskList_Command/cmake-build-debug/CMakeFiles/rebuild_cache.dir
